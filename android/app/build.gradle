@@ -52,7 +52,7 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file('C:\\Users\\hp\\StudioProjects\\easy_wash_v1\\android\\app\\easy_wash_release.keystore')
+            storeFile file('C:\\Users\\hp\\StudioProjects\\easy_wash_v1\\android\\app\\easy_wash_release.jks')
             storePassword 'Anurag@1005'
             keyAlias 'your_key_alias'
             keyPassword 'Anurag@1005'
